@@ -78,7 +78,7 @@ Research Interests:
 ## 📫 Contact
 
 - 📧 Email: nzrub.bd@gmail.com
-- 💼 LinkedIn: *(Add your LinkedIn profile URL here)*
+- 💼 LinkedIn: https://www.linkedin.com/in/nzrub/
 
 ---
 

@@ -40,6 +40,7 @@ I am a Senior IT Engineer with over 15 years of experience in enterprise IT infr
 ![Fortinet](https://img.shields.io/badge/Fortinet-EF3B2D?style=for-the-badge&logo=fortinet&logoColor=white)
 ![Palo Alto](https://img.shields.io/badge/Palo_Alto_Networks-F04E23?style=for-the-badge)
 ![Sophos](https://img.shields.io/badge/Sophos-092E6E?style=for-the-badge)
+![CompTIA Security+](https://img.shields.io/badge/CompTIA-Security%2B-E61B23?style=for-the-badge)
 ![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
 ![Microsoft 365](https://img.shields.io/badge/Microsoft_365-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white)
 ![Windows Server](https://img.shields.io/badge/Windows_Server-0078D4?style=for-the-badge&logo=windows&logoColor=white)

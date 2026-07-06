@@ -96,15 +96,6 @@ Research Interests:
 - Microsoft Hybrid Server Administration
 - Palo Alto Network Security Administrator
 - Oracle Aconex Administrator Associate
-
----
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=nazmullhassan&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nazmullhassan&layout=compact&theme=github_dark&hide_border=true" />
-</p>
-
 ---
 ## 📊 GitHub Statistics
 

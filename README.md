@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/nazmullhassan/nazmullhassan/main/GitBanner.png" width="100%" alt="Nazmul Hassan Banner">
+</p>
+
 # 👋 Hi, I'm Nazmul Hassan
 
 ### Senior IT Engineer | Cybersecurity Professional | M.Sc. Researcher

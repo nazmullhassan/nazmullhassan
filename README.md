@@ -21,6 +21,28 @@ I am a Senior IT Engineer with over 15 years of experience in enterprise IT infr
 - 🌍 Based in Dhaka, Bangladesh
 
 ---
+- ## 🎓 Academic Research
+
+**Master of Science (M.Sc.) in Computer Science & Engineering (Cybersecurity)** *(In Progress)*  
+**United International University (UIU), Dhaka, Bangladesh**
+
+**Academic Progress**
+- 🎓 Completed **15 Credits**
+- ⭐ Current **CGPA: 4.00 / 4.00**
+- 📚 Research Thesis: **AI-Driven Micro-Latency Intrusion Detection System (ML-IDS) for 6G-Ready Edge Networks**
+
+I am actively engaged in academic research focusing on Artificial Intelligence, Cybersecurity, Digital Forensics, Cloud Security, and Intelligent Intrusion Detection Systems.
+
+| Research Title | Research Area | Status |
+|----------------|---------------|:------:|
+| 🛡️ AI-Driven Micro-Latency Intrusion Detection System (ML-IDS) for 6G-Ready Edge Networks | AI • Machine Learning • Cybersecurity • 6G | 🚧 Ongoing (Thesis) |
+| 🦟 AI + IoT-Based Early Prediction and Prevention System for Dengue | Artificial Intelligence • IoT • Healthcare | ✅ Completed |
+| ☁️ Graph-Based Blast Radius Quantification and Containment Modeling for Ephemeral Cloud Identities in Multi-Cloud Environments | Cloud Security • Identity Security • Multi-Cloud | ✅ Completed |
+| 🔍 Event Log Management for Security Monitoring and Digital Forensic Investigation | Digital Forensics • SIEM • Security Monitoring | ✅ Completed |
+
+> **Research Focus:** Artificial Intelligence • Machine Learning • Cybersecurity • Digital Forensics • Cloud Security • Network Security • Edge Computing • SIEM • Intelligent Threat Detection
+
+---
 ## 🛠️ Technologies & Tools
 
 <p align="center">

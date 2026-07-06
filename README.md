@@ -21,16 +21,30 @@ I am a Senior IT Engineer with over 15 years of experience in enterprise IT infr
 - 🌍 Based in Dhaka, Bangladesh
 
 ---
+## 🛠️ Technologies & Tools
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,git,github,bash,powershell,linux,windows,docker,vscode,mysql,postgres,aws,azure&perline=7" />
+</p>
 ## 💻 Technical Skills
-
+---
 ### Cybersecurity
 - Network Security
 - Endpoint Security
 - Threat Detection
 - Incident Response
 - Digital Forensics
+---
+## 🔐 Enterprise Technologies
 
+![Fortinet](https://img.shields.io/badge/Fortinet-EF3B2D?style=for-the-badge&logo=fortinet&logoColor=white)
+![Sophos](https://img.shields.io/badge/Sophos-092E6E?style=for-the-badge)
+![Microsoft 365](https://img.shields.io/badge/Microsoft_365-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white)
+![Windows Server](https://img.shields.io/badge/Windows_Server-0078D4?style=for-the-badge&logo=windows&logoColor=white)
+![Active Directory](https://img.shields.io/badge/Active_Directory-0078D4?style=for-the-badge)
+![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white)
+![Hyper-V](https://img.shields.io/badge/Hyper--V-0078D4?style=for-the-badge)
+![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
 ### Infrastructure
 - Windows Server
 - Active Directory
@@ -78,7 +92,27 @@ Research Interests:
 - Oracle Aconex Administrator Associate
 
 ---
+## 📊 GitHub Statistics
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nazmullhassan&show_icons=true&theme=github_dark&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nazmullhassan&layout=compact&theme=github_dark&hide_border=true" />
+</p>
+---
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nazmullhassan&show_icons=true&theme=github_dark&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nazmullhassan&layout=compact&theme=github_dark&hide_border=true" />
+</p>
+
+---
 ## 📫 Contact
 
 - 📧 Email: nzrub.bd@gmail.com

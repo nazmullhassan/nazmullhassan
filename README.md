@@ -52,34 +52,9 @@ I am actively engaged in academic research focusing on Artificial Intelligence, 
   <img src="https://skillicons.dev/icons?i=aws,azure,kubernetes,postgres,mysql,vscode,bash" />
 </p>
 ## 💻 Technical Skills
----
-## 🎯 Research Interests
+### 💼 Expertise
 
-🧠 Artificial Intelligence • 🤖 Machine Learning • ☁️ Cloud Security • 🛡️ Cybersecurity • 🔬 Digital Forensics • 🌐 IoT Security • 📊 Graph Analytics
-
----
-
-## 🛡️ Cybersecurity
-
-🔐 Network Security • 🖥️ Endpoint Security • 🚨 Threat Detection • 📋 Event Log Management • 🛑 Incident Response • 🔍 Malware Analysis
-
----
-
-## ☁️ Cloud & Enterprise
-
-☁️ AWS • 🔷 Microsoft Azure • ⚙️ Kubernetes • 🐳 Docker • 🖥️ Windows Server • 🐧 Linux • 🌐 Active Directory
-
----
-
-## 🤖 AI & Data Science
-
-🐍 Python • 🧠 TensorFlow • 🔥 PyTorch • 📈 Scikit-learn • 📊 Data Analytics • 🔍 Explainable AI (SHAP)
-
----
-
-## 💻 Development
-
-📝 Visual Studio Code • 🌿 Git • 🐙 GitHub • 🐚 Bash • 🗄️ PostgreSQL • 🐬 MySQL
+🛡️ Cybersecurity • 🌐 Network Security • 🖥️ Endpoint Security • 🚨 Threat Detection • 📋 Event Log Management • 🔍 Digital Forensics • ☁️ Cloud Computing • 🤖 Machine Learning
 ---
 ## 🔐 Enterprise Technologies
 

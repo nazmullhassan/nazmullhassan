@@ -67,6 +67,7 @@ Artificial Intelligence • Cybersecurity • Internet of Things (IoT) • Cloud
 ![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
 ![Sophos](https://img.shields.io/badge/Sophos-092E6E?style=for-the-badge)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![FortiGate](https://img.shields.io/badge/FortiGate-EF3B2D?style=for-the-badge)
 ![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
 
 ![CompTIA Security+](https://img.shields.io/badge/CompTIA-Security%2B-E61B23?style=for-the-badge)
@@ -79,6 +80,7 @@ Artificial Intelligence • Cybersecurity • Internet of Things (IoT) • Cloud
 
 ![FortiManager](https://img.shields.io/badge/FortiManager-EF3B2D?style=for-the-badge)
 ![Oracle Aconex](https://img.shields.io/badge/Oracle_Aconex-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![Windows 11](https://img.shields.io/badge/Windows_11-0078D4?style=for-the-badge&logo=windows11&logoColor=white)
 ![Barracuda Spam Filter](https://img.shields.io/badge/Barracuda_Spam_Filter-ED1C24?style=for-the-badge)
 ![Microsoft Azure AD](https://img.shields.io/badge/Microsoft_Azure_AD-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![VMware ESXi](https://img.shields.io/badge/VMware_ESXi-607078?style=for-the-badge&logo=vmware&logoColor=white)

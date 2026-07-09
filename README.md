@@ -136,15 +136,28 @@ Artificial Intelligence • Cybersecurity • Internet of Things (IoT) • Cloud
 
 ## 🔬 Current Research
 
-**AI-Driven Micro-Latency Intrusion Detection System (ML-IDS) for 6G-Ready Edge Networks**
+<table>
+<tr>
+<td>🛡️</td>
+<td><b>AI-Driven Micro-Latency Intrusion Detection System (ML-IDS)</b><br><sub>Machine Learning • Cybersecurity • Edge Computing • 6G Networks</sub></td>
+</tr>
 
-Research Interests:
+<tr>
+<td>🌐</td>
+<td><b>AI-IoT Based Early Dengue Prediction & Prevention System</b><br><sub>Artificial Intelligence • IoT • Smart Healthcare • Deep Learning</sub></td>
+</tr>
 
-- Artificial Intelligence
-- Machine Learning
-- Cybersecurity
-- Network Intrusion Detection
-- Edge Computing
+<tr>
+<td>📊</td>
+<td><b>Graph-Based Blast Radius Quantification for Cloud Security</b><br><sub>Cloud Security • Graph Analytics • Attack Path Analysis • Risk Assessment</sub></td>
+</tr>
+
+<tr>
+<td>📋</td>
+<td><b>AI-Driven Enterprise Event Log Management System</b><br><sub>SIEM • Log Analytics • Threat Detection • Security Operations</sub></td>
+</tr>
+
+</table>
 
 ---
 

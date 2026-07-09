@@ -53,12 +53,33 @@ I am actively engaged in academic research focusing on Artificial Intelligence, 
 </p>
 ## 💻 Technical Skills
 ---
-### Cybersecurity
-- Network Security
-- Endpoint Security
-- Threat Detection
-- Incident Response
-- Digital Forensics
+## 🎯 Research Interests
+
+🧠 Artificial Intelligence • 🤖 Machine Learning • ☁️ Cloud Security • 🛡️ Cybersecurity • 🔬 Digital Forensics • 🌐 IoT Security • 📊 Graph Analytics
+
+---
+
+## 🛡️ Cybersecurity
+
+🔐 Network Security • 🖥️ Endpoint Security • 🚨 Threat Detection • 📋 Event Log Management • 🛑 Incident Response • 🔍 Malware Analysis
+
+---
+
+## ☁️ Cloud & Enterprise
+
+☁️ AWS • 🔷 Microsoft Azure • ⚙️ Kubernetes • 🐳 Docker • 🖥️ Windows Server • 🐧 Linux • 🌐 Active Directory
+
+---
+
+## 🤖 AI & Data Science
+
+🐍 Python • 🧠 TensorFlow • 🔥 PyTorch • 📈 Scikit-learn • 📊 Data Analytics • 🔍 Explainable AI (SHAP)
+
+---
+
+## 💻 Development
+
+📝 Visual Studio Code • 🌿 Git • 🐙 GitHub • 🐚 Bash • 🗄️ PostgreSQL • 🐬 MySQL
 ---
 ## 🔐 Enterprise Technologies
 

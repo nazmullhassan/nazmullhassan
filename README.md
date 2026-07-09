@@ -67,7 +67,6 @@ Artificial Intelligence • Cybersecurity • Internet of Things (IoT) • Cloud
 ![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
 ![Sophos](https://img.shields.io/badge/Sophos-092E6E?style=for-the-badge)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![FortiGate](https://img.shields.io/badge/FortiGate-EF3B2D?style=for-the-badge)
 ![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
 
 ![CompTIA Security+](https://img.shields.io/badge/CompTIA-Security%2B-E61B23?style=for-the-badge)

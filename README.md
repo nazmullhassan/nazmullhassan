@@ -90,15 +90,31 @@ Artificial Intelligence • Cybersecurity • Internet of Things (IoT) • Cloud
   <img src="https://img.shields.io/badge/Network_Security-0A66C2?style=for-the-badge"/>
 </p>
 
-## 🖥️ Infrastructure
+## 🖥️ Enterprise Infrastructure
 
 ![Windows Server](https://img.shields.io/badge/Windows_Server-0078D4?style=flat-square&logo=windows&logoColor=white)
 ![Active Directory](https://img.shields.io/badge/Active_Directory-0078D4?style=flat-square)
 ![DNS](https://img.shields.io/badge/DNS-1F6FEB?style=flat-square)
 ![DHCP](https://img.shields.io/badge/DHCP-1F6FEB?style=flat-square)
 ![Group Policy](https://img.shields.io/badge/Group_Policy-0078D4?style=flat-square)
+![Enterprise Networking](https://img.shields.io/badge/Enterprise_Networking-00599C?style=flat-square)
+![TCP/IP](https://img.shields.io/badge/TCP/IP-00599C?style=flat-square)
+
+![Data Loss Prevention](https://img.shields.io/badge/Data_Loss_Prevention-DLP-DC143C?style=flat-square)
+![Microsoft 365](https://img.shields.io/badge/Microsoft_365-D83B01?style=flat-square&logo=microsoftoffice&logoColor=white)
+![Windows 11](https://img.shields.io/badge/Windows_11-0078D4?style=flat-square&logo=windows11&logoColor=white)
 ![VMware](https://img.shields.io/badge/VMware-607078?style=flat-square&logo=vmware&logoColor=white)
 ![Hyper-V](https://img.shields.io/badge/Hyper--V-0078D4?style=flat-square)
+![Virtualization](https://img.shields.io/badge/Virtualization-607078?style=flat-square)
+![NAS Storage](https://img.shields.io/badge/NAS_Storage-4B8BBE?style=flat-square)
+
+![Backup & Recovery](https://img.shields.io/badge/Backup_&_Recovery-228B22?style=flat-square)
+![Disaster Recovery](https://img.shields.io/badge/Disaster_Recovery-8B0000?style=flat-square)
+![Remote Administration](https://img.shields.io/badge/Remote_Administration-4169E1?style=flat-square)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
+![IT Operations](https://img.shields.io/badge/IT_Operations-6A5ACD?style=flat-square)
+![System Administration](https://img.shields.io/badge/System_Administration-4682B4?style=flat-square)
+![Infrastructure Security](https://img.shields.io/badge/Infrastructure_Security-2E8B57?style=flat-square)
 
 ## 🛡️ Security Platforms
 

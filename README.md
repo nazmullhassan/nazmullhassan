@@ -70,8 +70,6 @@ Artificial Intelligence • Cybersecurity • Internet of Things (IoT) • Cloud
   <img src="https://img.shields.io/badge/Microsoft_365-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white"/>
   <img src="https://img.shields.io/badge/Windows_Server-0078D4?style=for-the-badge&logo=windows&logoColor=white"/>
 </p>
-
-<p align="center">
   <img src="https://img.shields.io/badge/Active_Directory-0078D4?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white"/>
   <img src="https://img.shields.io/badge/Hyper--V-0078D4?style=for-the-badge"/>
@@ -79,9 +77,6 @@ Artificial Intelligence • Cybersecurity • Internet of Things (IoT) • Cloud
   <img src="https://img.shields.io/badge/FortiAnalyzer-EF3B2D?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/FortiManager-EF3B2D?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
-</p>
-
-<p align="center">
   <img src="https://img.shields.io/badge/Barracuda_Spam_Filter-ED1C24?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/FortiGate-EF3B2D?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white"/>

@@ -211,8 +211,23 @@ Cybersecurity • Cloud Security • Network Security • Machine Learning • D
 </p>
 ## 📫 Contact
 
-- 📧 Email: nzrub.bd@gmail.com
-- 💼 LinkedIn: https://www.linkedin.com/in/nzrub/
+<h3 align="center">Nazmul Hassan</h3>
+
+<p align="center">
+
+<a href="mailto:nzrub.bd@gmail.com">
+  <img src="https://img.shields.io/badge/Email-nzrub.bd@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://www.linkedin.com/in/nzrub/">
+  <img src="https://img.shields.io/badge/LinkedIn-Nazmul_Hassan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://github.com/nazmullhassan">
+  <img src="https://img.shields.io/badge/GitHub-nazmullhassan-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</p>
 
 ---
 

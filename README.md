@@ -134,7 +134,7 @@ Artificial Intelligence • Cybersecurity • Internet of Things (IoT) • Cloud
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)
 ---
 
-## 🔬 Research Portfolio
+## 🔬 Research Interests
 
 🛡️ **AI-Driven Micro-Latency Intrusion Detection System (ML-IDS) for 6G-Ready Edge Networks**  
 `Artificial Intelligence` • `Machine Learning` • `Cybersecurity` • `Network Intrusion Detection` • `Edge Computing` • `6G Networks`

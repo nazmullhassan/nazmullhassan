@@ -136,28 +136,29 @@ Artificial Intelligence • Cybersecurity • Internet of Things (IoT) • Cloud
 
 ## 🔬 Research Portfolio
 
-<table>
-<tr>
-<td>🛡️</td>
-<td><b>AI-Driven Micro-Latency Intrusion Detection System (ML-IDS)</b><br><sub>Machine Learning • Cybersecurity • Edge Computing • 6G Networks</sub></td>
-</tr>
+🛡️ **AI-Driven Micro-Latency Intrusion Detection System (ML-IDS) for 6G-Ready Edge Networks**  
+`Artificial Intelligence` • `Machine Learning` • `Cybersecurity` • `Network Intrusion Detection` • `Edge Computing` • `6G Networks`
 
-<tr>
-<td>🌐</td>
-<td><b>AI-IoT Based Early Dengue Prediction & Prevention System</b><br><sub>Artificial Intelligence • IoT • Smart Healthcare • Deep Learning</sub></td>
-</tr>
+🌐 **AI-IoT Based Early Dengue Prediction & Prevention System**  
+`Artificial Intelligence` • `Internet of Things (IoT)` • `Smart Healthcare` • `Deep Learning` • `Explainable AI`
 
-<tr>
-<td>📊</td>
-<td><b>Graph-Based Blast Radius Quantification for Cloud Security</b><br><sub>Cloud Security • Graph Analytics • Attack Path Analysis • Risk Assessment</sub></td>
-</tr>
+📊 **Graph-Based Blast Radius Quantification for Cloud Security**  
+`Cloud Security` • `Graph Analytics` • `Attack Path Analysis` • `Risk Assessment` • `Enterprise Security`
 
-<tr>
-<td>📋</td>
-<td><b>AI-Driven Enterprise Event Log Management System</b><br><sub>SIEM • Log Analytics • Threat Detection • Security Operations</sub></td>
-</tr>
+📋 **AI-Driven Enterprise Event Log Management & Threat Analytics**  
+`SIEM` • `Security Event Analytics` • `Threat Detection` • `Log Correlation` • `SOC Operations`
 
-</table>
+🌍 **AI-Based Network Traffic Analysis & Anomaly Detection** *(Ongoing)*  
+`Network Security` • `Deep Packet Inspection` • `Flow Analytics` • `Anomaly Detection` • `Behavior Analytics`
+
+🔐 **Next-Generation Enterprise Network Defense Architecture** *(Research Proposal)*  
+`Zero Trust Architecture` • `SDN Security` • `Secure Network Design` • `Identity & Access Management`
+
+☁️ **Cloud-Native Threat Detection & Security Monitoring** *(Research Proposal)*  
+`Cloud Security` • `Threat Intelligence` • `Security Automation` • `Incident Response`
+
+🚀 **Explainable AI for Network Intrusion Detection Systems (XAI-NIDS)** *(Future Research)*  
+`Explainable AI (XAI)` • `Network Intrusion Detection` • `Model Interpretability` • `Trustworthy AI`
 
 ---
 

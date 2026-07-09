@@ -44,12 +44,13 @@ I am actively engaged in academic research focusing on Artificial Intelligence, 
 
 ---
 ## 🛠️ Technologies & Tools
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,docker,linux,git,github" />
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,docker,linux,git,github,aws" />
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,azure,kubernetes,postgres,mysql,vscode,bash" />
+  <img src="https://skillicons.dev/icons?i=azure,kubernetes,postgres,mysql,bash,powershell,vscode,anaconda,ubuntu" />
 </p>
 💼 Expertise
 

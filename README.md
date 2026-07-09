@@ -134,12 +134,41 @@ Research Interests:
 
 ## 📜 Certifications
 
-- CompTIA Security+
-- Fortinet NSE 4
-- Fortinet NSE 7
-- Microsoft Hybrid Server Administration
-- Palo Alto Network Security Administrator
-- Oracle Aconex Administrator Associate
+<p align="center">
+
+<a href="https://www.comptia.org/certifications/security">
+<img src="https://img.shields.io/badge/CompTIA-Security%2B-E61B23?style=for-the-badge&logo=comptia&logoColor=white"/>
+</a>
+
+<a href="https://www.fortinet.com/training">
+<img src="https://img.shields.io/badge/Fortinet-NSE_4-EF3B2D?style=for-the-badge&logo=fortinet&logoColor=white"/>
+</a>
+
+<a href="https://www.fortinet.com/training">
+<img src="https://img.shields.io/badge/Fortinet-NSE_7-EF3B2D?style=for-the-badge&logo=fortinet&logoColor=white"/>
+</a>
+
+<a href="https://www.eccouncil.org/train-certify/certified-ethical-hacker-ceh/">
+<img src="https://img.shields.io/badge/EC--Council-CEH-7B1FA2?style=for-the-badge&logoColor=white"/>
+</a>
+
+</p>
+
+<p align="center">
+
+<a href="https://learn.microsoft.com/credentials/">
+<img src="https://img.shields.io/badge/Microsoft-Hybrid_Server_Administration-0078D4?style=for-the-badge&logo=microsoft&logoColor=white"/>
+</a>
+
+<a href="https://www.paloaltonetworks.com/services/education">
+<img src="https://img.shields.io/badge/Palo_Alto-Network_Security_Administrator-F04E23?style=for-the-badge"/>
+</a>
+
+<a href="https://education.oracle.com/">
+<img src="https://img.shields.io/badge/Oracle-Aconex_Administrator_Associate-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
+</a>
+
+</p>
 ---
 ## 📊 GitHub Statistics
 

@@ -134,7 +134,7 @@ Artificial Intelligence • Cybersecurity • Internet of Things (IoT) • Cloud
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)
 ---
 
-## 🔬 Current Research
+## 🔬 Research Portfolio
 
 <table>
 <tr>

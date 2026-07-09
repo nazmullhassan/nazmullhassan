@@ -90,27 +90,32 @@ Artificial Intelligence • Cybersecurity • Internet of Things (IoT) • Cloud
   <img src="https://img.shields.io/badge/Network_Security-0A66C2?style=for-the-badge"/>
 </p>
 
-### Infrastructure
-- Windows Server
-- Active Directory
-- DNS
-- DHCP
-- Group Policy
-- VMware
-- Hyper-V
+## 🖥️ Infrastructure
 
-### Security Platforms
-- Fortinet
-- Sophos
-- Microsoft Defender
-- Microsoft 365
+![Windows Server](https://img.shields.io/badge/Windows_Server-0078D4?style=flat-square&logo=windows&logoColor=white)
+![Active Directory](https://img.shields.io/badge/Active_Directory-0078D4?style=flat-square)
+![DNS](https://img.shields.io/badge/DNS-1F6FEB?style=flat-square)
+![DHCP](https://img.shields.io/badge/DHCP-1F6FEB?style=flat-square)
+![Group Policy](https://img.shields.io/badge/Group_Policy-0078D4?style=flat-square)
+![VMware](https://img.shields.io/badge/VMware-607078?style=flat-square&logo=vmware&logoColor=white)
+![Hyper-V](https://img.shields.io/badge/Hyper--V-0078D4?style=flat-square)
 
-### Programming
-- Python
-- PowerShell
-- Git
-- GitHub
+## 🛡️ Security Platforms
 
+![Fortinet](https://img.shields.io/badge/Fortinet-EF3B2D?style=flat-square&logo=fortinet&logoColor=white)
+![Palo Alto](https://img.shields.io/badge/Palo_Alto-F04E23?style=flat-square)
+![Sophos](https://img.shields.io/badge/Sophos-092E6E?style=flat-square)
+![Microsoft Defender](https://img.shields.io/badge/Microsoft_Defender-5E5E5E?style=flat-square&logo=microsoft)
+![Microsoft 365](https://img.shields.io/badge/Microsoft_365-D83B01?style=flat-square&logo=microsoftoffice)
+![Splunk](https://img.shields.io/badge/Splunk-000000?style=flat-square&logo=splunk)
+
+## 🤖 AI & Development
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)
 ---
 
 ## 🔬 Current Research

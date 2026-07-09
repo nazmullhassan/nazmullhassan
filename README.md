@@ -63,7 +63,6 @@ Artificial Intelligence • Cybersecurity • Internet of Things (IoT) • Cloud
 ## 🔐 Enterprise Technologies
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Fortinet-EF3B2D?style=for-the-badge&logo=fortinet&logoColor=white"/>
   <img src="https://img.shields.io/badge/Palo_Alto_Networks-F04E23?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Sophos-092E6E?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/>
@@ -83,7 +82,6 @@ Artificial Intelligence • Cybersecurity • Internet of Things (IoT) • Cloud
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Windows_11-0078D4?style=for-the-badge&logo=windows11&logoColor=white"/>
   <img src="https://img.shields.io/badge/Barracuda_Spam_Filter-ED1C24?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/FortiGate-EF3B2D?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white"/>

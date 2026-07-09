@@ -92,7 +92,6 @@ Artificial Intelligence • Cybersecurity • Internet of Things (IoT) • Cloud
 <td><img src="https://img.shields.io/badge/VMware_ESXi-607078?style=for-the-badge&logo=vmware&logoColor=white"></td>
 <td><img src="https://img.shields.io/badge/Network_Security-0A66C2?style=for-the-badge"></td>
 </tr>
-</table>
 ### Infrastructure
 - Windows Server
 - Active Directory

@@ -46,7 +46,20 @@ I am actively engaged in academic research focusing on Artificial Intelligence, 
 ## 🛠️ Technologies & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,git,github,bash,powershell,linux,windows,docker,vscode,mysql,postgres,aws,azure&perline=7" />
+<a href="https://www.python.org/" target="_blank"><img src="https://skillicons.dev/icons?i=python" width="48" height="48"/></a>
+<a href="https://git-scm.com/" target="_blank"><img src="https://skillicons.dev/icons?i=git" width="48" height="48"/></a>
+<a href="https://github.com/" target="_blank"><img src="https://skillicons.dev/icons?i=github" width="48" height="48"/></a>
+<a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://skillicons.dev/icons?i=bash" width="48" height="48"/></a>
+<a href="https://learn.microsoft.com/powershell/" target="_blank"><img src="https://skillicons.dev/icons?i=powershell" width="48" height="48"/></a>
+<a href="https://www.kernel.org/" target="_blank"><img src="https://skillicons.dev/icons?i=linux" width="48" height="48"/></a>
+<a href="https://www.microsoft.com/windows/" target="_blank"><img src="https://skillicons.dev/icons?i=windows" width="48" height="48"/></a>
+<a href="https://www.docker.com/" target="_blank"><img src="https://skillicons.dev/icons?i=docker" width="48" height="48"/></a>
+<a href="https://code.visualstudio.com/" target="_blank"><img src="https://skillicons.dev/icons?i=vscode" width="48" height="48"/></a>
+<a href="https://www.mysql.com/" target="_blank"><img src="https://skillicons.dev/icons?i=mysql" width="48" height="48"/></a>
+<a href="https://www.postgresql.org/" target="_blank"><img src="https://skillicons.dev/icons?i=postgres" width="48" height="48"/></a>
+<a href="https://aws.amazon.com/" target="_blank"><img src="https://skillicons.dev/icons?i=aws" width="48" height="48"/></a>
+<a href="https://azure.microsoft.com/" target="_blank"><img src="https://skillicons.dev/icons?i=azure" width="48" height="48"/></a>
+<a href="https://www.tensorflow.org/" target="_blank"><img src="https://skillicons.dev/icons?i=tensorflow" width="48" height="48"/></a>
 </p>
 ## 💻 Technical Skills
 ---

@@ -51,8 +51,12 @@ I am actively engaged in academic research focusing on Artificial Intelligence, 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=aws,azure,kubernetes,postgres,mysql,vscode,bash" />
 </p>
-### 💼 Expertise
-`Cybersecurity` • `Cloud Security` • `Network Security` • `Machine Learning` • `Digital Forensics` • `Event Log Management`
+---
+💼 Expertise
+Cybersecurity • Cloud Security • Machine Learning • Digital Forensics • Event Log Management • Network Security
+
+🔬 Research Interests
+AI • Cybersecurity • IoT • Cloud Computing • Explainable AI • Threat Intelligence
 ---
 ## 🔐 Enterprise Technologies
 

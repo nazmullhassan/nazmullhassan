@@ -60,38 +60,32 @@ Cybersecurity • Cloud Security • Network Security • Machine Learning • D
 
 Artificial Intelligence • Cybersecurity • Internet of Things (IoT) • Cloud Computing • Explainable AI • Graph Analytics • Threat Intelligence
 ---
-<h2>🔐 Enterprise Technologies</h2>
+## 🔐 Enterprise Technologies
 
-<table align="center">
-<tr>
-<td><img src="https://img.shields.io/badge/Fortinet-EF3B2D?style=for-the-badge&logo=fortinet&logoColor=white"></td>
-<td><img src="https://img.shields.io/badge/Palo_Alto_Networks-F04E23?style=for-the-badge"></td>
-<td><img src="https://img.shields.io/badge/Sophos-092E6E?style=for-the-badge"></td>
-<td><img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"></td>
-<td><img src="https://img.shields.io/badge/CompTIA-Security%2B-E61B23?style=for-the-badge"></td>
-<td><img src="https://img.shields.io/badge/Microsoft_365-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white"></td>
-<td><img src="https://img.shields.io/badge/Windows_Server-0078D4?style=for-the-badge&logo=windows&logoColor=white"></td>
-</tr>
+![Fortinet](https://img.shields.io/badge/Fortinet-EF3B2D?style=for-the-badge&logo=fortinet&logoColor=white)
+![Palo Alto](https://img.shields.io/badge/Palo_Alto_Networks-F04E23?style=for-the-badge)
+![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+![Sophos](https://img.shields.io/badge/Sophos-092E6E?style=for-the-badge)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![FortiGate](https://img.shields.io/badge/FortiGate-EF3B2D?style=for-the-badge)
+![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
 
-<tr>
-<td><img src="https://img.shields.io/badge/Active_Directory-0078D4?style=for-the-badge"></td>
-<td><img src="https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white"></td>
-<td><img src="https://img.shields.io/badge/Hyper--V-0078D4?style=for-the-badge"></td>
-<td><img src="https://img.shields.io/badge/Oracle_Aconex-F80000?style=for-the-badge&logo=oracle&logoColor=white"></td>
-<td><img src="https://img.shields.io/badge/FortiAnalyzer-EF3B2D?style=for-the-badge"></td>
-<td><img src="https://img.shields.io/badge/FortiManager-EF3B2D?style=for-the-badge"></td>
-<td><img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"></td>
-</tr>
+![CompTIA Security+](https://img.shields.io/badge/CompTIA-Security%2B-E61B23?style=for-the-badge)
+![Microsoft 365](https://img.shields.io/badge/Microsoft_365-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white)
+![Windows Server](https://img.shields.io/badge/Windows_Server-0078D4?style=for-the-badge&logo=windows&logoColor=white)
+![Active Directory](https://img.shields.io/badge/Active_Directory-0078D4?style=for-the-badge)
+![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white)
+![Hyper--V](https://img.shields.io/badge/Hyper--V-0078D4?style=for-the-badge)
+![FortiAnalyzer](https://img.shields.io/badge/FortiAnalyzer-EF3B2D?style=for-the-badge)
 
-<tr>
-<td><img src="https://img.shields.io/badge/Windows_11-0078D4?style=for-the-badge&logo=windows11&logoColor=white"></td>
-<td><img src="https://img.shields.io/badge/Barracuda_Spam_Filter-ED1C24?style=for-the-badge"></td>
-<td><img src="https://img.shields.io/badge/FortiGate-EF3B2D?style=for-the-badge"></td>
-<td><img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white"></td>
-<td><img src="https://img.shields.io/badge/Microsoft_Azure_AD-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"></td>
-<td><img src="https://img.shields.io/badge/VMware_ESXi-607078?style=for-the-badge&logo=vmware&logoColor=white"></td>
-<td><img src="https://img.shields.io/badge/Network_Security-0A66C2?style=for-the-badge"></td>
-</tr>
+![FortiManager](https://img.shields.io/badge/FortiManager-EF3B2D?style=for-the-badge)
+![Oracle Aconex](https://img.shields.io/badge/Oracle_Aconex-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![Windows 11](https://img.shields.io/badge/Windows_11-0078D4?style=for-the-badge&logo=windows11&logoColor=white)
+![Barracuda Spam Filter](https://img.shields.io/badge/Barracuda_Spam_Filter-ED1C24?style=for-the-badge)
+![Microsoft Azure AD](https://img.shields.io/badge/Microsoft_Azure_AD-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![VMware ESXi](https://img.shields.io/badge/VMware_ESXi-607078?style=for-the-badge&logo=vmware&logoColor=white)
+![Network Security](https://img.shields.io/badge/Network_Security-0A66C2?style=for-the-badge)
+
 ### Infrastructure
 - Windows Server
 - Active Directory

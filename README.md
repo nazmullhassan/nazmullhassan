@@ -80,7 +80,6 @@ Artificial Intelligence • Cybersecurity • Internet of Things (IoT) • Cloud
 
 ![FortiManager](https://img.shields.io/badge/FortiManager-EF3B2D?style=for-the-badge)
 ![Oracle Aconex](https://img.shields.io/badge/Oracle_Aconex-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![Windows 11](https://img.shields.io/badge/Windows_11-0078D4?style=for-the-badge&logo=windows11&logoColor=white)
 ![Barracuda Spam Filter](https://img.shields.io/badge/Barracuda_Spam_Filter-ED1C24?style=for-the-badge)
 ![Microsoft Azure AD](https://img.shields.io/badge/Microsoft_Azure_AD-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![VMware ESXi](https://img.shields.io/badge/VMware_ESXi-607078?style=for-the-badge&logo=vmware&logoColor=white)

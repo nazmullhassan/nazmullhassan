@@ -56,7 +56,7 @@ I am actively engaged in academic research focusing on Artificial Intelligence, 
 Cybersecurity • Cloud Security • Network Security • Machine Learning • Digital Forensics • Event Log Management
 
 ---
-## 🔬 Research Interests
+## 🔬 Research Focous 
 
 Artificial Intelligence • Cybersecurity • Internet of Things (IoT) • Cloud Computing • Explainable AI • Graph Analytics • Threat Intelligence
 ---
